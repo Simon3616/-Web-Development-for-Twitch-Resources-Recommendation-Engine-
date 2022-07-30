@@ -1,1 +1,1 @@
-# -Web-Development-for-Twitch-Resources-Recommendation-Engine-
+# Web-Development-for-Twitch-Resources-Recommendation-Engine
